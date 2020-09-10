@@ -1,2 +1,2 @@
 # FloorPartition
-Floor Partition for Login Test.
+Floor Partition for Logic Test by Java Language.
