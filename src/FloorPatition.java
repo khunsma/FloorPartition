@@ -8,7 +8,7 @@ public class FloorPatition {
         int rows = 4;
         int cols = 4;
 
-        //Some 4x4 Array Data Input
+        //Some 4x4 Array Data Input. Can test by adding or removing comment one by one.
         //int[][] floor = {{1, 0, 0, 0}, {0, 1, 1, 0}, {0, 1, 1, 0}, {0, 0, 0, 1}};
         int[][] floor = {{1, 0, 0, 0}, {1, 0, 1, 0}, {0, 1, 1, 0}, {0, 0, 0, 1}};
         //int[][] floor = {{0, 1, 1, 0}, {0, 0, 1, 1}, {1, 1, 0, 0}, {0, 0, 1, 0}};
